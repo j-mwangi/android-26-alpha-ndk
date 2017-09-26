@@ -3,4 +3,4 @@
 
 Simple base image containing jdk8, android SDK and android NDK for ci usage
 
-Base on https://hub.docker.com/r/circleci/android/ image
+Based on https://hub.docker.com/r/circleci/android/ image
